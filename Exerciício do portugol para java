@@ -1,0 +1,34 @@
+public class teste {
+public static void main(String[] args);
+
+		int id1
+		int id2
+		int id3
+		int id4
+		int id5
+		int id6		
+		
+			System.out.println("==tempo de vida==")
+			System.out.println("Idade integrante 1?")
+			n = read.nextInt(id1);
+			System.out.println("==tempo de vida==")
+		  System.out.println("Idade integrante 2?")
+		  n = read.nextInt(id2);
+			System.out.println("==tempo de vida==")
+			System.out.println("Idade integrante 3?")
+			n = read.nextInt(id3);
+			System.out.println("==tempo de vida==")
+			System.out.println("Idade integrante 4?")
+			n = read.nextInt(id4);
+			System.out.println("==tempo de vida==")
+			System.out.println("Idade integrante 5?")
+			n = read.nextInt(id5);
+	 	  System.out.println("==tempo de vida==")
+			System.out.println("Qual é a sua idade?")
+			n = read.nextInt(id6);
+			Systemout.println("==tempo de vida==")
+			System.out.println("A soma de todas as idades é de " ,id1+id2+id3+id4+id5+id6, "anos");
+			
+			
+			
+}
