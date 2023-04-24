@@ -1,0 +1,25 @@
+public static vois main(String[] args)
+	{		
+	
+	int valor=1
+	switch(valor)
+
+        case 0: //testa se o valor é igual a 1
+		System.out.println("O valor é igual a 1");
+		for(int i = 0; i < 100; i++);
+		
+		case 1: //testa se o valor é igual a 1
+		System.out.println("O valor é igual a 1");
+		for(int i = 0; i < 100; i++);
+
+		case 2: //testa se o valor é igual a 2
+		System.out.println("O valor é igual a 2");
+		for(int i = 0; i < 100; i++);
+
+		case contrario:
+		System.out.println("O valor não é igual a 0, 1 ou 2");
+		
+	}
+
+	
+	
