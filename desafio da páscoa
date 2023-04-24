@@ -1,0 +1,28 @@
+public static vois main(String[] args)
+	{		
+	
+		System.out.println("  _                                  _ \n")
+		System.out.println(" : :                                : :\n")
+	    System.out.println ("| | |                              | | | \n")
+	    System.out.println("| | |                              | | | \n")
+	    System.out.println ("| | |                              | | | \n")
+	    System.out.println("| | |                              | | | \n")
+        System.out.println("| | |                              | | | \n") 
+        System.out.println ("| | |       __________________     | | | \n")
+        System.out.println("| | |  ___*                   *___ | | | \n")
+        System.out.println ("|   _*                            *_   | \n")
+        System.out.println ("|                                      |\n")
+        System.out.println ("|         -                   -        |\n")
+        System.out.println ("|        | |                 | |       |\n")
+        System.out.println ("|         _                   _        |\n")
+        System.out.println ("|                                      |\n")
+        System.out.println ("|                  __                  |\n")
+        System.out.println("|                 |__|                 |\n")
+        System.out.println(" *                                    *\n")
+        System.out.println ("  *             :_____:              *\n")
+        System.out.println ("   *              |_|               *\n")
+        System.out.println ("    *                              *\n ")
+        System.out.println ("    *                            *\n")
+        System.out.println ("      *__________________________*\n")
+	}
+}	
