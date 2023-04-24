@@ -1,0 +1,17 @@
+public static vois main(String[] args)
+	{
+		System.out.println(" Qual é o seu nome?");
+		for(int i = 0; i < 100; i++);
+		System.out.println(" Maria Clara");
+		for(int i = 0; i < 100; i++);
+		System.out.println(" Como voce gostaria de ser chamada?");
+		for(int i = 0; i < 100; i++);
+		System.out.println(" Pode me chamar pelo meu nome");
+		for(int i = 0; i < 100; i++);
+		System.out.println(" Bem vinda Maria Clara!");
+		
+		
+	}
+
+	
+	
