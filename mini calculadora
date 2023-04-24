@@ -1,0 +1,88 @@
+public static vois main(String[] args)
+	{		
+	
+	inclua biblioteca Tipos--> t
+		
+	{
+	real  num1, num2, soma, sub, mult, div, operacao
+     
+         	
+		System.out.println("Digite a operação desejada:\n");
+		System.out.println("Digite: \n");
+		System.out.println("1 para soma \n");
+		System.out.println("2 para sub \n");
+		System.out.println("3 para mult \n");
+      	System.out.println("4 para div \n")	;     	     	     	     	    	        	     
+	     leia(operacao)
+	   	for(int i = 0; i < 100; i++);     
+
+	     	System.out.println("Digite o primeiro valor:");
+	     leia(num1)
+	   	System.out.println ("Digite o segundo valor:");
+	     leia(num2)
+	    
+          soma = num1 + num2
+          sub = num1 - num2
+          mult = num1 * num2
+          soma = t.inteiro_para_real(num1)/t.inteiro_para_real(num2)
+          sub = t.inteiro_para_real(num1)/t.inteiro_para_real(num2)
+          mult = t.inteiro_para_real(num1)/t.inteiro_para_real(num2) 
+          div = t.inteiro_para_real(num1)/t.inteiro_para_real(num2)
+                                                                                            
+	    if(operacao==1){
+	     	soma = num1+num2
+	   	System.out.println("A soma é: ",soma);
+	     }
+        else if(operacao ==2){
+          	sub = num1-num2
+          System.out.println("A subtração é: ",sub);
+          }
+	     else if(operacao == 3){
+	     	mult = num1*num1 
+	     System.out.println("A multiplicação é: ",mult);
+	     }
+	   else if(operacao ==4){
+	     	div = num1/num2
+	     System.out.println("A divisão é: ",div);
+	     }
+		else{
+	   	System.out.println("Operação inválida");
+		}
+        if(operacao==4){
+             num2 = 0
+          System.out.println ("\nO valor da divisão por zero não existe.Por favor, digite outro número");         
+          }
+         else if(operacao==1){
+          	soma= -num1 + num2          
+          System.out.println("\nOperção finalizada!");          	         	                    	          	         	
+          }
+         else if(operacao==1){
+         	num2 = -num2
+         System.out.println("\nOperção finalizada!");
+         }
+         else if(operacao==2){
+         	num1 = -num1
+         System.out.println("\nOperação finalizada!");    
+         }
+         else if(operacao==2){
+         	num2 = -num2
+         System.out.println("\nOperação finalizada!");
+         }
+         else if(operacao==3){
+         	num1 = -num1
+         System.out.println("\nOperação finalizada!");
+         }
+        else if(operacao==3){
+         	num2 = -num2
+         System.out.println("\nOperação finalizada");    
+         }
+         else if(operacao==4){
+         	num1 = -num1
+         System.out.println("\nOperação finalizada!");        	 
+         }
+        else if(operacao==4){
+         	num2 = -num2
+         System.out.println("\nOperação finalizada!"); 
+         }
+         
+}            
