@@ -1,0 +1,43 @@
+public static vois main(String[] args)
+	{		
+	int id1
+		int id2
+		int id3
+		int id4
+		int id5
+		int id6
+
+			System.out.println("==tempo de vida==");
+			//System.out.println("Esse programa foi desenvolvido para somar as idades de todos participantes do grupo");
+			System.out.println("Idade integrante 1?");
+			Scanner ler = new Scanner(System.in);(id1);
+			for(int i = 0; i < 100; i++)
+			System.out.println("==tempo de vida==");
+			System.out.println("Idade integrante 2?");
+			Scanner ler = new Scanner(System.in);(id2);
+			for(int i = 0; i < 100; i++)
+			System.out.println("==tempo de vida==");
+			System.out.println("Idade integrante 3?");
+			Scanner ler = new Scanner(System.in);(id3);
+			for(int i = 0; i < 100; i++)
+			System.out.println("==tempo de vida==");
+			System.out.println("Idade integrante 4?");
+			Scanner ler = new Scanner(System.in);(id4);
+			for(int i = 0; i < 100; i++)
+			System.out.println("==tempo de vida==");
+			System.out.println("Idade integrante 5?");
+			Scanner ler = new Scanner(System.in);(id5);
+			for(int i = 0; i < 100; i++)
+		    System.out.println("==tempo de vida==");
+			System.out.println("Qual é a sua idade?");
+			Scanner ler = new Scanner(System.in);(id6);
+			for(int i = 0; i < 100; i++)
+			System.out.println("==tempo de vida==");
+			System.out.println("A soma de todas as idades é de " ,id1+id2+id3+id4+id5+id6, "anos");
+			
+			
+			
+		
+		
+		
+	}
