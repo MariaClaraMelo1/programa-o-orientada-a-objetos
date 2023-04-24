@@ -1,0 +1,43 @@
+public static vois main(String[] args)
+	{		
+	
+	const inteiro LINHA_CAT=3
+	cadeia veteroCategorias[LINHA_CAT] = {"Nome da categoria 1",
+	                                       "Nome da categoria 2",
+	                                         "Nome da categoria 3"}
+	cadeia nome
+	cadeia matrizProdutos [LINHA][COLUNA]
+	{//Login
+	System.out.println("Digite seu nome: ");
+	Scanner ler = new Scanner(System.in);(nome);
+	for(int i = 0; i < 100; i++);
+
+	System.out.println("Olá, este é seu menu, ", "!");
+	//System.out.println("n1 - Nome da categoria 1\n2 - Nome da categoria);
+    for (inteiro i=0; i<LINHA_CAT; i++){
+    System.out.println("\n" , (i+1) vetorCategorias[i]);
+     }    
+	System.out.println("\n0 para sair");
+	System.out.println("\nDigite uma das opções acima:");
+
+    Scanner ler = new Scanner(System.in);  (opcao);
+    switch(opcao)
+		
+}   case 1:
+    System.out.println("Você acessou a Categoria 1");
+}   for(inteiro i=0;i,LINHA; i++){
+    if(matrizProdutos[i][0] == "Categoria1")
+}   System.out.println("\n" , (i+1), " - ");
+
+    case 2:
+	System.out.println("Você acessou a Categoria 2");
+	return
+
+	case 3:
+	System.out.println("Você acessou a Categoria 3");
+	return
+
+	case 0:
+	System.out.println("Você realmente deseja sair?");
+	
+}
