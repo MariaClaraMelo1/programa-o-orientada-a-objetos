@@ -1,0 +1,25 @@
+public static vois main(String[] args)
+	{		
+	
+	      char texto
+	      swtich case s, n
+	     
+		System.out.println("Digite s para sim ou n para não:");
+		leia(texto)
+		switch(texto);
+	  }
+
+		case "s":
+		System.out.println("Você optou pelo sim!");
+		for(int i = 0; i < 100; i++);
+
+		case "n":
+		System.out.println("Você optou pelo não!");
+		for(int i = 0; i < 100; i++)
+
+		case contrario:
+		System.out,println("Opção inválida!");
+	    
+	
+}
+	
