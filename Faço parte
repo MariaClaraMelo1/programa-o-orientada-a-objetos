@@ -1,0 +1,18 @@
+public static vois main(String[] args)
+		
+	{ int X, Y, Z, anos
+	
+		X= 1893
+		Z= 18
+		Y= 2023-1893
+				
+		System.out.println("X=1893\n");
+		System.out.println("Z=18\n");
+		System.out.println("Y= 2023 - X\n");
+		System.out.println("Y=2023 - 1893=\n");
+		System.out.println("Teresópolis tem 130 anos!!");
+		
+		 
+		
+	}
+}
